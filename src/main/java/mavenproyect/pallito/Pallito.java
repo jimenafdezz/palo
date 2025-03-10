@@ -16,6 +16,7 @@ public class Pallito {
         System.out.println("me gusta comer");
         System.out.println("sex");
          System.out.println("soria");
+         System.out.println("nose algo");
     }
     
 }
